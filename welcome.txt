@@ -1,1 +1,1 @@
-Print ("Welcome to our world");
+Print ("Добро пожаловать в наш мир!");
